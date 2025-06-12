@@ -1,2 +1,49 @@
 Beyza Yılmaz - 22303517
 Favorite Game : Monopoly 
+commit 4bbcea964d696a4ac98dac9d54e91872d3cfe09c (HEAD -> new_information, origin/new_information)
+Author: beyza <beyzzaayilmaazz20@gmail.com>
+Date:   Wed Jun 11 19:28:01 2025 +0300
+
+    Update info.txt
+
+commit a9e96d4b51ca7951b2aadede542267150069f8c1
+Author: beyza <beyzzaayilmaazz20@gmail.com>
+Date:   Wed Jun 11 19:10:24 2025 +0300
+
+    <student name> updated info.txt
+
+commit 332abf63ef8d24414bfca930b5d6bbe50b6556cb
+Author: beyza <beyzzaayilmaazz20@gmail.com>
+Date:   Wed Jun 11 19:09:12 2025 +0300
+
+    <student name> updated info.txt
+
+commit c2788357dd2831588664f4c1762943fb9855e24e
+Author: beyza <beyzzaayilmaazz20@gmail.com>
+Date:   Wed Jun 11 19:04:57 2025 +0300
+
+    <student name>updated info.txt
+
+commit 3f25df61a547f4e9888114a7a410fd91cc863e67
+Author: beyza <beyzzaayilmaazz20@gmail.com>
+Date:   Wed Jun 11 16:57:21 2025 +0300
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
