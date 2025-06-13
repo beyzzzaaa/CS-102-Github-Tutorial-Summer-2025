@@ -1,3 +1,4 @@
 Beyza Yılmaz - 22303517
 Favorite Game : Monopoly .
-In the student name part, my name was missing in commit messages. I am writing this commit to fix that. 
+In the student name part, my name was missing in commit messages. I am writing this commit to fix that part. 
+ 
