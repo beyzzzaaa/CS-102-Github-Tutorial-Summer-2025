@@ -1,32 +1,3 @@
 Beyza Yılmaz - 22303517
 Favorite Game : Monopoly .
-commit 0ccd58cb0de84681049be7e63296221071116396 (HEAD -> new_information, origin/new_information)
-Author: beyza <beyzzaayilmaazz20@gmail.com>
-Date:   Fri Jun 13 12:47:07 2025 +0300
-
-    beyza updated info.txt
-
-commit 53cf8c46ff1b70c52fcc37d6c11ca9f6a443fa65
-Author: beyza <beyzzaayilmaazz20@gmail.com>
-Date:   Thu Jun 12 11:47:15 2025 +0300
-
-    Update info.txt
-
-commit 4bbcea964d696a4ac98dac9d54e91872d3cfe09c
-Author: beyza <beyzzaayilmaazz20@gmail.com>
-Date:   Wed Jun 11 19:28:01 2025 +0300
-
-    Update info.txt
-
-commit a9e96d4b51ca7951b2aadede542267150069f8c1
-Author: beyza <beyzzaayilmaazz20@gmail.com>
-Date:   Wed Jun 11 19:10:24 2025 +0300
-
-    <student name> updated info.txt
-
-commit 332abf63ef8d24414bfca930b5d6bbe50b6556cb
-Author: beyza <beyzzaayilmaazz20@gmail.com>
-Date:   Wed Jun 11 19:09:12 2025 +0300
-
-    <student name> updated info.txt
-:
+In the student name part, my name was missing in commit messages. I am writing this commit to fix that. 
