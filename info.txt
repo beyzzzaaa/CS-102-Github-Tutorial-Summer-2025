@@ -1,5 +1,5 @@
 Beyza Yılmaz - 22303517
-Favorite Game : Monopoly 
+Favorite Game : Monopoly .
 commit 4bbcea964d696a4ac98dac9d54e91872d3cfe09c (HEAD -> new_information, origin/new_information)
 Author: beyza <beyzzaayilmaazz20@gmail.com>
 Date:   Wed Jun 11 19:28:01 2025 +0300
